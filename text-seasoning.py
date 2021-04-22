@@ -1,5 +1,6 @@
 import tkinter
 import string
+import emoji
 class TextSeasoner:
     @staticmethod
     def strangeCaser(txt):
